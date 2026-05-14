@@ -1,4 +1,4 @@
-# Tkinter Calculator
+# Desktop Calculator
 
 A simple GUI-based calculator built using Python Tkinter.
 
